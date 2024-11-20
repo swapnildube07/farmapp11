@@ -49,6 +49,8 @@ dependencies:
   get: ^4.6.6
   country_state_city_picker: ^1.2.8
   flutter_easyloading: ^3.0.5
+  provider: ^6.1.2
+  uuid: ^4.5.1
 
 dev_dependencies:
   flutter_test:
